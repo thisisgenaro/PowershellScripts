@@ -46,3 +46,5 @@ Param(
     return $Output
 
 }
+
+Export-Members -function New-RandomPassword
